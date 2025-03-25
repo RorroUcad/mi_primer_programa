@@ -71,6 +71,7 @@ public:
 
 int main() {
     cout << "\n\t\tRESOLUCION DE ECUACIONES POR GAUSS-JORDAN\n\n\n";
+	cout << "\n\t\tTE AMO RORRO\n\n"
     Gauss obj;
     obj.accept();
     cout << "\n\n\n\nMATRIZ INICIAL: \n\n\n";
